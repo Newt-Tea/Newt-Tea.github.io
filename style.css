@@ -1,12 +1,18 @@
-h1,p{
-	color:SeaGreen;
+h1,
+p {
+	color: white;
+	font-size: 25px;
+	font-family: 'Times New Roman', Times, serif;
+}
 
-font-family:American Typewriter;
+a {
+	color: #8dbeff;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 17px;
+
+
 }
-a{
-	color:Red;
-	font-family:arial;
-}
-*{
-	background-color:Black;
+
+* {
+	background-color: #444444;
 }
