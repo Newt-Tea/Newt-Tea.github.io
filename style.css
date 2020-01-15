@@ -1,12 +1,15 @@
 h1,p{
-	color:SeaGreen;
+	color: #8dbeff
+	;
 
-font-family:American Typewriter;
+font-family:'Times New Roman', Times, serif;
 }
 a{
-	color:Red;
-	font-family:arial;
+	color: #8dbeff
+	;
+	font-family:'Times New Roman', Times, serif;
+	
 }
 *{
-	background-color:Black;
+	background-color:#737373;
 }
