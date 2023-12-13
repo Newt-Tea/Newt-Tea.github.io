@@ -1,0 +1,61 @@
+h1{
+	text-align: center;
+}
+
+h1,p{
+	color:SeaGreen;
+}
+/* a is links */
+a{
+	color: Red
+
+}
+*{
+	background-color:Black;
+	font-family:"American Typewriter";
+}
+
+.img{
+	position: center;
+}
+
+.solid {
+	border-style: solid;
+	border-color: #0000DD;
+	border-width: 10px
+}
+.dashed{
+	border-style: dashed;
+	border-color: #0000DD;
+	border-width: 10px
+}
+.dotted{
+	border-style: dotted;
+	border-color: #0000DD;
+	border-width: 10px
+}
+.double{
+	border-style: double;
+	border-color: #0000DD;
+	border-width: 10px
+}
+.groove{
+	border-style: groove;
+	border-color: #0000DD;
+	border-width: 10px
+}
+.inset{
+	border-style: inset;
+	border-color: #0000DD;
+	border-width: 10px
+}
+.outset{
+	border-style: outset;
+	border-color: #0000DD;
+	border-width: 10px
+}
+.ridge{
+	border-style: ridge;
+	border-color: #0000DD;
+	border-width: 10px
+}
