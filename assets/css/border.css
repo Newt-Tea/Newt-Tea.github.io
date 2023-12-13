@@ -14,9 +14,7 @@ a{
 	background-color:Black;
 	font-family:"American Typewriter";
 }
-.style{
-	border-color: #53e3fb;
-}
+
 
 .img{
 	position: center;
@@ -53,4 +51,7 @@ a{
 #ridge{
 	border-style: ridge;
 	border-width: 10px
+}
+.style{
+	border-color: #53e3fb;
 }
