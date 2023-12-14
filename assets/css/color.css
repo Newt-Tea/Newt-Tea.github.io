@@ -10,8 +10,8 @@ p,h1{
 	color:FloralWhite;
 }
 .aliceblue{
-	color:midnightblue;
+	color:rgb(0,255,127);
 	border-style:solid;
-	border-color:midnightblue;
-	background-color:midnightblue;
+	border-color:rgb(0,255,127);
+	background-color:rgb(0,255,127);
 }

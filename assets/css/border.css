@@ -33,30 +33,30 @@ a{
 #dotted{
 	border-style: dotted;
 	border-width: 10px;
-	border-color: #53e3fb;
+	border-color: rgb(0,255,127);
 }
 #double{
 	border-style: double;
 	border-width: 10px;
-	border-color: #53e3fb;
+	border-color: rgb(0,255,127);
 }
 #groove{
 	border-style: groove;
 	border-width: 10px;
-	border-color: #53e3fb;
+	border-color: rgb(0,255,127);
 }
 #inset{
 	border-style: inset;
 	border-width: 10px;
-	border-color: #53e3fb;
+	border-color: rgb(0,255,127);
 }
 #outset{
 	border-style: outset;
 	border-width: 10px;
-	border-color: #53e3fb;
+	border-color: rgb(0,255,127);
 }
 #ridge{
 	border-style: ridge;
 	border-width: 10px;
-	border-color: #53e3fb;
+	border-color: rgb(0,255,127);
 }
