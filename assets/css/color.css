@@ -9,7 +9,13 @@ h1{
 p,h1{
 	color:FloralWhite;
 }
-.aliceblue{
+.midnightblue{
+	color:midnightblue;
+	border-style:solid;
+	border-color:midnightblue;
+	background-color:midnightblue;
+}
+.mintgreen{
 	color:rgb(0,255,127);
 	border-style:solid;
 	border-color:rgb(0,255,127);
