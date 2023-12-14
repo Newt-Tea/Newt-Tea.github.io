@@ -23,12 +23,12 @@ a{
 #solid {
 	border-style: solid;
 	border-width: 10px;
-	border-color: #53e3fb;
+	border-color: rgb(0,255,127);
 }
 #dashed{
 	border-style: dashed;
 	border-width: 10px;
-	border-color: #53e3fb;
+	border-color: rgb(0,255,127);
 }
 #dotted{
 	border-style: dotted;
