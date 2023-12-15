@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+    <title>
+      Info Thief
+    </title>
+  <head>
+  <body>
+    <h1 id = "title">
+      Information Thief
+    </h1>
+    <p id="description">
+      A short survey to steal your information
+    </p>
+    <form id="survey-form">
+      <label class="labelid="name-label" for="name"> Name:</label>
+      <input id="name" type="text" placeholder="Enter your name" required />
+      <label id="email-label" for="email"> Email:</label>
+      <input id="email" type="email" placeholder="Enter your email" required />
+      <label id ="number-label" for="number">Number:</label>
+      <input id="number" type="number" min=0 max=255 placeholder="Enter a number" required />
+      </input>
+
+      <select id="dropdown">
+        <option>Choose me!</option>
+        <option>No choose me!</option>
+      </select>
+      <input name="radio" type="radio" value="1" />
+      <input name="radio" type="radio" value="2" />
+
+      <input type="checkbox" value="1" />
+      <input type="checkbox" value="2" />
+      <input type="checkbox" value="3" />
+
+      <textarea > </textarea>
+
+      <input type="submit" id="submit" />
+    </form>
